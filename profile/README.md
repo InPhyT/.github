@@ -14,7 +14,7 @@
 
 We strongly believe in interdisciplinary approaches to tackling interesting challenges and pressing problems both in academic and industrial R&D. 
 
-We designed infectious disease epidemiological data management pipelines in collaboration with [regional](https://www.epi.piemonte.it) and [national](https://covid19.infn.it/iss/) public health institutions in Italy and we are active maintainers and contributors of software packages and organisations within the [Julia Programming Language](https://julialang.org) ecosystem with a focus on the development of dynamical modelling frameworks.
+We designed infectious disease epidemiological data management computational infrastructures in collaboration with [regional](https://www.epi.piemonte.it) and [national](https://covid19.infn.it/iss/) public health institutions in Italy and we are active maintainers and contributors of software packages and organisations within the [Julia Programming Language](https://julialang.org) ecosystem with a focus on the development of dynamical modelling frameworks.
 
 ## Past Projects
 
@@ -23,7 +23,8 @@ We designed infectious disease epidemiological data management pipelines in coll
 
 ### Computational Epidemiology & Public Health 
 - [ICD_GEMs.jl: A Julia Package to Translate Between ICD-9 and ICD-10 Codes](https://github.com/JuliaHealth/ICD_GEMs.jl); 
-- [Italian COVID-19 integrated surveillance dataset disaggregated by region, age and sex](https://github.com/InPhyT/COVID19-Italy-Integrated-Surveillance-Data).
+- [Italian COVID-19 integrated surveillance dataset disaggregated by region, age and sex](https://github.com/InPhyT/COVID19-Italy-Integrated-Surveillance-Data); 
+- [Piedmont COVID-19 Data Modelling & Management](https://github.com/UniTo-SEPI/COVID-19_Piedmont).
 
 ### Data Mining & Machine Learning 
 - [User Gender Classification on Reddit applying NLP](https://github.com/InPhyT/Reddit_Text_Classification);
