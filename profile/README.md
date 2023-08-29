@@ -10,7 +10,7 @@
 
 ## Overview 
 
-**InPhyT** is a student research group based at the Department of Physics of the [University of Turin](https://www.unito.it) specialising in the applied mathematical and computational modelling of complex systems.
+**InPhyT** is a student research group founded at the Department of Physics of the [University of Turin](https://www.unito.it) specialising in the applied mathematical and computational modelling of complex systems.
 
 We strongly believe in interdisciplinary approaches to tackling interesting challenges and pressing problems both in academic and industrial R&D. 
 
@@ -58,6 +58,13 @@ We designed infectious disease epidemiological data management computational inf
 - **Where:** [The Fields Institute](http://www.fields.utoronto.ca/), Toronto, Canada
 - **Who:** [Pietro Monticone](https://github.com/pitmonticone) and [Claudio Moroni](https://github.com/ClaudMor)
 - **What:** "Multilayer Network Science in Julia with [`MultilayerGraphs.jl`](https://github.com/JuliaGraphs/MultilayerGraphs.jl)" ([Website](http://www.fields.utoronto.ca/talks/Multilayer-Network-Science-Julia-MultilayerGraphsjl), [Slides](https://inphyt.github.io/Talks/2023/WAW/index.html), [Video](https://youtu.be/hB8Vrwkwax0))
+
+#### [JuliaCon 2023](https://juliacon.org/2023/)
+
+- **When:** 2023/07/25 - 2023/07/29
+- **Where:** [Massachusetts Institute of Technology](https://www.mit.edu), Cambridge, MA, USA
+- **Who:** [Pietro Monticone](https://github.com/pitmonticone) and [Claudio Moroni](https://github.com/ClaudMor)
+- **What:** "[`MultilayerGraphs.jl`](https://github.com/JuliaGraphs/MultilayerGraphs.jl): Multilayer Network Science in Julia" ([Website](https://pretalx.com/juliacon2023/talk/MS7YWQ/), [Short Presentation](https://inphyt.github.io/Talks/2023/JuliaCon/short/index.html), [Long Presentation](https://inphyt.github.io/Talks/2023/JuliaCon/long/index.html), [Video](https://www.youtube.com/live/5i48gvpqJYY))
 
 ## Members
 
