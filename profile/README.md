@@ -70,5 +70,5 @@ We designed infectious disease epidemiological data management computational inf
 
 | Name | Mail | GitHub | Twitter | Julia Discourse | Julia Forem |
 |--------|--------|--------|--------|--------|--------|
-| Pietro Monticone | [pietro.monticone](mailto:pietro.monticone@edu.unito.it) | [@pitmonticone](https://github.com/pitmonticone) | [@PietroMonticone](https://twitter.com/PietroMonticone) | [@PietroMonticone](https://discourse.julialang.org/u/PietroMonticone) | [@pitmonticone](https://forem.julialang.org/pitmonticone) |
+| Pietro Monticone | [pietro.monticone](mailto:pietro.monticone@studenti.unitn.it) | [@pitmonticone](https://github.com/pitmonticone) | [@PietroMonticone](https://twitter.com/PietroMonticone) | [@PietroMonticone](https://discourse.julialang.org/u/PietroMonticone) | [@pitmonticone](https://forem.julialang.org/pitmonticone) |
 | Claudio Moroni | [claudio.moroni](mailto:claudio.moroni@edu.unito.it) | [@ClaudMor](https://github.com/ClaudMor) | [@Claudio__Moroni](https://twitter.com/Claudio__Moroni) | [@claudio20497](https://discourse.julialang.org/u/claudio20497) | [@claudio_moroni](https://forem.julialang.org/claudio_moroni) |
