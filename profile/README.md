@@ -10,7 +10,7 @@
 
 ## Overview 
 
-**InPhyT** is a student research group founded at the Department of Physics of the [University of Turin](https://www.unito.it) specialising in the applied mathematical and computational modelling of complex systems.
+**InPhyT** is a student research group founded at the Department of Physics of the [University of Turin](https://www.unito.it) specialising in the applied mathematical, statistical and computational modelling of complex systems.
 
 We strongly believe in interdisciplinary approaches to tackling interesting challenges and pressing problems both in academic and industrial R&D. 
 
